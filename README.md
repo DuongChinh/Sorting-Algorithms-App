@@ -1,4 +1,4 @@
-# Sorting-App
+# Sorting algorithms app
 1. Lập trình ứng dụng thực hiện các thuật toán sắp xếp:
     - Giao diện cho phép nhập dữ liệu: từ bàn phím hoặc từ file
     - Giao diện chọn thuật toán cần thực hiện
