@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\BaiLam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59553275-429C-4936-85F1-885ACD2CEA44}|BaiLam.vcxproj|D:\\Study\\BaiLam\\BaiLam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59553275-429C-4936-85F1-885ACD2CEA44}|BaiLam.vcxproj|solutionrelative:BaiLam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59553275-429C-4936-85F1-885ACD2CEA44}|BaiLam.vcxproj|D:\\Study\\BaiLam\\BaiLam.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{59553275-429C-4936-85F1-885ACD2CEA44}|BaiLam.vcxproj|solutionrelative:BaiLam.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiLam.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\BaiLam\\BaiLam.ico",
+              "RelativeDocumentMoniker": "BaiLam.ico",
+              "ToolTip": "D:\\Study\\BaiLam\\BaiLam.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "BaiLam.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-23T09:11:06.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiLam.cpp",
+              "DocumentMoniker": "D:\\Study\\BaiLam\\BaiLam.cpp",
+              "RelativeDocumentMoniker": "BaiLam.cpp",
+              "ToolTip": "D:\\Study\\BaiLam\\BaiLam.cpp",
+              "RelativeToolTip": "BaiLam.cpp",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAIwLcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T11:12:26.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
